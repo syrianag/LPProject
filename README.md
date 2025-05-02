@@ -1,6 +1,7 @@
 # Capstone Project 
 
-Purpose: The purpose of my code is to create a system where you can purchase everything you need to crochet your desired project. The algorithum will give you a set of projects and supples that you would possibly need. 
+# Purpose 
+The purpose of my code is to create a system where you can purchase everything you need to crochet your desired project. The algorithum will give you a set of projects and supples that you would possibly need. 
 
 # Target Audience 
 The target audience is anyone who has a passion for creativity, bringing designs to life and looking to find a site that has everything they need to create their desired project. 
